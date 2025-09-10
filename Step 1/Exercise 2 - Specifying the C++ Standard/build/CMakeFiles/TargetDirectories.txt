@@ -1,0 +1,3 @@
+/home/konsteros/masteringCMake/Mastering-CMake/Step 1/Exercise 2 - Specifying the C++ Standard/build/CMakeFiles/sqr.dir
+/home/konsteros/masteringCMake/Mastering-CMake/Step 1/Exercise 2 - Specifying the C++ Standard/build/CMakeFiles/edit_cache.dir
+/home/konsteros/masteringCMake/Mastering-CMake/Step 1/Exercise 2 - Specifying the C++ Standard/build/CMakeFiles/rebuild_cache.dir
